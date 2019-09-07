@@ -1,1 +1,141 @@
-<?php /*** PHP Encode v1.0 by zeura.com ***/ $XnNhAWEnhoiqwciqpoHH=file(__FILE__);eval(base64_decode("aWYoIWZ1bmN0aW9uX2V4aXN0cygiWWl1bklVWTc2YkJodWhOWUlPOCIpKXtmdW5jdGlvbiBZaXVuSVVZNzZiQmh1aE5ZSU84KCRnLCRiPTApeyRhPWltcGxvZGUoIlxuIiwkZyk7JGQ9YXJyYXkoNjU1LDIzNiw0MCk7aWYoJGI9PTApICRmPXN1YnN0cigkYSwkZFswXSwkZFsxXSk7ZWxzZWlmKCRiPT0xKSAkZj1zdWJzdHIoJGEsJGRbMF0rJGRbMV0sJGRbMl0pO2Vsc2UgJGY9dHJpbShzdWJzdHIoJGEsJGRbMF0rJGRbMV0rJGRbMl0pKTtyZXR1cm4oJGYpO319"));eval(base64_decode(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH)));eval(ZsldkfhGYU87iyihdfsow(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,2),YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,1)));__halt_compiler();aWYoIWZ1bmN0aW9uX2V4aXN0cygiWnNsZGtmaEdZVTg3aXlpaGRmc293Iikpe2Z1bmN0aW9uIFpzbGRrZmhHWVU4N2l5aWhkZnNvdygkYSwkaCl7aWYoJGg9PXNoYTEoJGEpKXtyZXR1cm4oZ3ppbmZsYXRlKGJhc2U2NF9kZWNvZGUoJGEpKSk7fWVsc2V7ZWNobygiRXJyb3I6IEZpbGUgTW9kaWZpZWQiKTt9fX0=b372e3e0c656bbd6b73f11523e0b6e5b395caf9f7Vjbbhs3EH22AP3DWBDiNSJrdfEltuIUii0nSmzJteQWjmNs6V1KorQ37HKbuJWBFv2F/ECf+9K39jlBfiRf0hnu6mbZrhEUTVpEUbRL8szhcDgzHDp7zlyXB7ANmXTqZaFcPi1UyiXnw5ufP6tvoluxUi47AGDgB+70UUD8SacAJhQ69unJCKhv8kmYRy0AHQx4qX6QYUSw6hg66KpXM1YeqndsGdTz3UgCWyvGMvbngAawPVnEqqNTh6Hrhnp5aeSohSrGLzp1xf8B34fU99/YnlXnmk3YOapV27VdeHwCW/DfXMf9lfG/6febBYYvhs1hY1jDJwxbw6+Hx8PqcHf4sTN85uYqOu9+f//n+1/f/vacOQKksNgAznkgmdvtRm4X+uwVO4dpgb4YMAh5l9kMmM/8yIULRIPkQZ9ZAnxm4cAAu5lrsc/bDJlKOpVOdSLXlMJz4Txi0vTcjrb8Yzq1kE5xs+dBZpJ+DpjbF27XZVA/qNVhD221/egRxgbxZAV3uMCELAPhaJ0ul6HWau/WG8vLNEq8oovDLAjYhZZOLdURvoQEEEumU4TDjHTA3S53Tc/iYDHJwOGuMmw/9FwkokdH2Byp6NWIoVoyQQ6etZoN4/Co1m6f4KPeaC+rRcbEF8LxmRvzDojfZg7QXnuS5eMJiNvwI2kgoeQurmIpplbjSzkYa0DEiYlcssBlMs8eaUeg2DHYgGYU58xkoHUi20YXkT1QDLieZC2ZqUkyUxpb6GOSGDojVpQZKCzNsK36DbT2RN/sSLkxB1fWnF1nlowQUyg7xiBtwp3DnYx4vCkOd8g5INnFcxZE6ZTogDZiOc3QdmbOYBs1YnbIyYXCi1ByR8uYNmdBZmyubHx2Y3PicLH5/lbg/2hdBDtJ6GQy+asGzWdifbMhsy2PMD0p/S1dFyYL8p2A8yDyBevlPdcWLteZL3QFzfs9/ythbcfkKkKRmoxBD21pNwcWHMAJPN0SW+GSCtKuI2mGJwft+4XCVqGgpHqcWTwIx6G7PNV5ekb4qmlyX67UKBIxP2xhXvRt1I+Sij4y+azIcciDlSrGudyCXWZ/LwZ6KV/MF0DbF270ugLHFai6VuAJC1ZxoFSBJ+2VxkaxUIDHkbAt/dmL5trq8+V56npn5QD16AhurbSEa3LMT/l47Xla4WzOU7bSYutibCdM5L1Zs4d0ZhTYhnCFVOtWrZBLz5eYcXo52Dk+2m8etg18oLRiuRW319zfb36739yptuvNxsQJbhTARHZ81GgfVRutvdpRDoq3olutfeOb2lF97+SwRujCrein7fbh01p1l5Djld8msNNsPq/XnlURjxHlDfLytczcQWKvvl+7KpINeKgcWsny19wkSTXSD6+GjcJOrDV7MK06LbL75IjGE0k1yuVK0cG974enGWSIbJk5O80U6EftFEUXxLl74ZJOMIzl13cLMUwJfuBRKpiPs49yHTX3F9e5s+vgZsrrnCepEIzRXl51I5K7yZGKzum7X97+cTZxrAZz2JRfzTvWaKY5B3NRkvxrSvoqOeVAhHGYYO7OL7ntT/nvqx4dYJpal8pdfHBnR3ZEKP4hL8Zpv/jwnX043qSbXPga50WBic1U+dVXpcLYNwroGcKiDb1Sis05+vbYEUtOo+v5AqzIjlBgMMjnFxcTtwptzn1tXdlx4ZIjGXJ1vABnxnqlUMG8BQ9NL3LlVVWWaez+fZpbrWhANVJc4VzROSumlB6VO+kUHdi49g5DlCGFw3/wXE5G1paqoWD6M6z88J6mChe6h6oTvjwub6aqGt8TrrxbNEQ+SZMqvs0uKChG6qi6jEhQE5GEyb1Y6221uHsfHTRKv08ZNofNVvsThxapsFev7e+2cmon2b8aiL6KtusKEYw/2uJrYtGfruFVLI6ItmGUhhfmwm4SdLG/TobOJpk/YYo71rBjOFQ1ylQMLlxzcn346U1CUkSZA1I7jCzWg5DbPGTYEnjfpduOjOjPG1Ds4+13wJ3IEiyugmgKKoUWFm6oixXo1mTSYng7xLtZDx57Eqe26JZ2Tn8csXHmAXMw8uTiYj7/MrmJZZmJacYvoY0D5lpaMQebNE/4Skizp42GyZ4mCzkUt7DQprxE0fjggbqknAecDSoJoDQN2FgvzgHKMwxrpTnA6jRgs1SeA6zNMJRW5wDrM4CNtTnAxgxgc30O8GAGsL4xB9icUbLwYBpwOUrdMSI+VWh31RB9/wI=
+<?php
+$banner = "
+\033[0;32m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+\033[1;33m   ____                                      ___  ___
+  \033[1;33m/  _/__  ___ __ _________ ____  _______   / _ \/ _ \
+ \033[1;34m_/ // _ \(_-</ // / __/ _ `/ _ \/ __/ -_) / , _/ ___/
+\033[1;34m/___/_//_/___/\_,_/_/  \_,_/_//_/\__/\__/ /_/|_/_/
+\033[0;32m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+\033[1;34m                   CREATED BY :
+\033[0;32m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+\033[1;34m              +-+-+-+-+-+ +-+-+-+-+-+
+\033[1;34m              |Z|O|N|E|Z| |S|Q|U|A|D|
+\033[1;34m              +-+-+-+-+-+ +-+-+-+-+-+
+\033[0;32m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+\033[1;31mðŸš«Kami tidak bertanggung jawab
+\033[1;31mjika segala apapun yang terjadi pada akun anda
+\033[0;32m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+";
+
+function buatconf()
+{
+    echo "\033[1;33mManjingna IMEI Fak =>> : ";
+    $iemei    = trim(fgets(STDIN));
+    $config   = array('Imei' => $iemei);
+    $jsonfile = json_encode($config, JSON_PRETTY_PRINT);
+    file_put_contents('config.json', $jsonfile);
+    echo "\n";
+}
+
+$file      = "config.json";
+$konfigson = file_get_contents($file);
+$datason   = json_decode($konfigson, true);
+
+if ($datason["Imei"] == false) {
+    system("clear");
+    echo $banner;
+    buatconf();
+}
+
+system("clear");
+echo $banner;
+
+$file      = "config.json";
+$konfigson = file_get_contents($file);
+$datason   = json_decode($konfigson, true);
+$memei     = "".$datason["Imei"]."";
+$saldo     = "http://icar.freerupiah.online/api/saldo.php?id=$memei";
+$date      = date('D, d M Y H:i:s');
+$gmt       = "GMT+00:00";
+$headers   = array();
+$headers[] = "Accept-Encoding: application/json";
+$headers[] = "User-Agent: Dalvik/2.1.0 (Linux; U; Android 4.1.2; GT-N7100 Build/JZO54K)";
+$headers[] = "If-Modified-Since: ".$date .$gmt;
+
+function saldo($saldo, $headers)
+{
+    $ch = curl_init();
+
+    curl_setopt($ch, CURLOPT_URL, $saldo);
+    curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
+    curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
+    curl_setopt($ch, CURLOPT_COOKIEJAR, "cook.txt");
+    curl_setopt($ch, CURLOPT_COOKIEFILE, "cook.txt");
+
+    $resdo = curl_exec($ch);
+    $js    = json_decode($resdo, true);
+    echo "\033[1;34mSaldo\033[1;31m : \033[33;1m".$js["result"]["0"]["saldo"]." \n";
+}
+
+$index = "http://icar.freerupiah.online/api/getprofile.php?id=$memei";
+$ch    = curl_init();
+
+curl_setopt($ch, CURLOPT_URL, $index);
+curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
+curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
+curl_setopt($ch, CURLOPT_COOKIEJAR, "cook.txt");
+curl_setopt($ch, CURLOPT_COOKIEFILE, "cook.txt");
+
+$resultt    = curl_exec($ch);
+$json_index = json_decode($resultt, true);
+
+echo "\033[1;31m[Ã·]\033[1;34mNama\033[1;31m  : \033[33;1m".$json_index["result"]["0"]["nama"]."\033[1;31m [Ã·]\033[1;34mUsername \033[1;31m: \033[33;1m".$json_index["result"]["0"]["telp"]." \n";
+
+while (true) {
+    $cek = "http://icar.freerupiah.online/api/getmisi.php?id=$memei";
+    $ch  = curl_init();
+
+    curl_setopt($ch, CURLOPT_URL, $cek);
+    curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
+    curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
+    curl_setopt($ch, CURLOPT_COOKIEJAR, "cook.txt");
+    curl_setopt($ch, CURLOPT_COOKIEFILE, "cook.txt");
+
+    $rescek = curl_exec($ch);
+    $json   = json_decode($rescek, true);
+
+    if ($json["result"][0]["idmisi"] == false) {
+        echo "\033[1;31m[=]\033[1;32mNgopi dulu fakk..!! \n";
+        sleep(60);
+    } else {
+        for ($i = 0; $i < count($json["result"]); $i++) {
+            $kode  = "".$json["result"][$i]["idmisi"]."";
+            date_default_timezone_set('Asia/Jakarta');
+            $date3 = date('H:i:s');
+            $point = "http://icar.freerupiah.online/api/updatemisiplay.php";
+            $data  = "imei=$memei&idmisi=$kode&";
+            $ch    = curl_init();
+
+            curl_setopt($ch, CURLOPT_URL, $point);
+            curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+            curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+            curl_setopt($ch, CURLOPT_POST, 1);
+            curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
+            curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
+            curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
+            curl_setopt($ch, CURLOPT_COOKIEJAR, "cook.txt");
+            curl_setopt($ch, CURLOPT_COOKIEFILE, "cook.txt");
+
+            $respon    = curl_exec($ch);
+            $json_misi = json_decode($respon, true);
+
+            if ($respon == true) {
+                echo "\033[1;31m[\033[1;32m$date3\033[1;31m]\033[33;1m$respon\033[35;1m||";
+            } else {
+                echo "\033[1;31m[Ã—]\033[31;1mMisi sudah selesai sialakan tunggu 1jam kemudian";
+            }
+
+            saldo($saldo, $headers);
+            echo "\033[1;31m[=]\033[1;32mSabar yah Bot sedang berjalan kamfret!!..\n";
+            $timer = array("880","761","852","923","824","875","896","867","908");
+            sleep($timer[rand(0, 8)]);
+        }
+    }
+}
+?>
